@@ -3,4 +3,5 @@ with open("C:\\Users\\EC\\Downloads\\the maps\\vinegar\\knowledge-skill and trad
     A = map.split('\n') # for your x,y coordinates
 print(A)
 
-# list method
+# list method vs list comprehension
+# 
